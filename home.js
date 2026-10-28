@@ -8,3 +8,6 @@ const b = () => {
 const c = () => {
     alert("good bay!")
 }
+const f = () => {
+    alert("Sleep----")
+}
