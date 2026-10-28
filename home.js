@@ -8,6 +8,9 @@ const b = () => {
 const c = () => {
     alert("good bay!")
 }
+const d = () => {
+    return "Have a good day..."
+}
 const e = () => {
     alert("love!!!")
 }
