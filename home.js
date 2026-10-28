@@ -11,3 +11,6 @@ const c = () => {
 const d = () => {
     return "Have a good day..."
 }
+const e = () => {
+    alert("love!!!")
+}
